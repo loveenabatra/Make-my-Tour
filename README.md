@@ -1,5 +1,7 @@
 # Make-my-Tour
+
 ##INTRODUCTION
+
 The computers have gained a lot of importance in the past five decades. Most of our day-to-day jobs are being influenced by the use of computers. Now a day, computers are used for performing almost every function, which were performed by humans in the past. In some areas such as science and technology, targets can’t be achieved without the use of
 computers. The characteristics the make the computer so important includes its extra ordinary speed, large storage capacity, accuracy and consistency.
 Today computers play a great role in various industries and a large numbers of industries are using computer for various applications such as maintaining cashbook, sales book, purchase book, and other books of accounts. Computer can also be used for the designing of the various products. Computers provide many options for the designing of products.
@@ -9,6 +11,7 @@ This programme helps the users to book their flight tickets to various destinati
 
 
 ##OBJECTIVE OF THE PROJECT
+
 The objective/purpose of this project is to allow the users to book their flight tickets, it automatically reflects the available flights and this programme also allows the user to visualise the fare amount through bar graph of each airline and hence the user can compare the fare of each airline and then the user can book the flight at their convenience and make the payment through the credit card, debit card or UPI.
 
 
